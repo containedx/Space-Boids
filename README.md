@@ -1,7 +1,7 @@
 # Space-Boids
 Game created to present boids algorithm 
 
-Game is part of my Engineer's Thesis
+Game is part of my [Engineer's Thesis Project](https://github.com/containedx/Boid-Algorithm-In-Unity)
 
 You can play game here --> [my itch.io page](https://containedx.itch.io/space-boids)
 
